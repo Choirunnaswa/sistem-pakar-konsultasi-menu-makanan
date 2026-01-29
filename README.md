@@ -19,6 +19,12 @@ Project ini merupakan tahap perancangan sistem dan belum sampai pada tahap imple
 - Mendapatkan hasil perhitungan BMI
 - Mendapatkan kategori BMI dan rekomendasi menu makanan
 
+## Dokumentasi Tampilan Aplikasi
+
+Repository ini dilengkapi dengan dokumentasi tampilan rancangan sistem pakar konsultasi menu makanan, meliputi halaman login, menu admin, pengelolaan data pengguna dan menu makanan, laporan konsultasi, serta fitur konsultasi dan hasil rekomendasi menu berdasarkan perhitungan BMI.
+
+Seluruh dokumentasi tampilan dapat dilihat pada folder screenshots.
+
 ## Konsep yang Digunakan
 - Sistem Pakar berbasis rule
 - Perhitungan BMI
